@@ -1,0 +1,14 @@
+$green:#F080FF;
+
+
+body {
+	color: yellow;
+}
+
+.large-hero 
+
+{
+	h2 {
+		background-color:$green;
+	}
+}
